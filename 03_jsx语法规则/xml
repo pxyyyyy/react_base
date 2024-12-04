@@ -1,0 +1,11 @@
+xml早期用于存储和传输数据
+<student>
+    <name>Tom</name>
+    <age>19</age>
+</student>
+
+json  parse stringfy
+"{"name":"TOM","age":19}"
+
+JSX
+
